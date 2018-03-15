@@ -1,4 +1,4 @@
 <?php 
 echo "I am a bot";
-echo $date;
-echo $time;
+echo "I am not human";
+echo "I am new bot";
